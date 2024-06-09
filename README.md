@@ -5,7 +5,7 @@
 
 ## Website is Live..🍵
 
-* 🌏 Demo:  https://assignment-dun-omega.vercel.app/ 
+* 🌏 Demo: https://assignment-nu-rust.vercel.app/
 * 🖥 Figma Link : https://shorturl.at/m4O3A
 
 
